@@ -32,11 +32,7 @@ I'm a developer interested in the space between **software, games, automation, a
 
 I enjoy taking ideas from a rough concept into something **functional, polished, and worth using**.
 
-<div align="center">
-
 `idea` → `prototype` → `experiment` → **something real**
-
-</div>
 
 I care about **clean architecture, performance, thoughtful interfaces, and shipping things that actually work.**
 
@@ -126,7 +122,6 @@ I'm interested in using AI as a practical engineering tool rather than simply ad
 **What I work with**
 
 * LLM integrations
-* Gemini
 * Prompt engineering
 * Context optimization
 * AI-powered workflows
