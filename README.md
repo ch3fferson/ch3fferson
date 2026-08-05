@@ -52,7 +52,7 @@
 
 ### `$ cat ./skills/toolbox.md`
 
-<div align="center">
+<div>
 <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,php,unity,mysql,git,github,githubactions,wordpress,bash,linux,vscode&theme=dark"/>
 </div>
 
