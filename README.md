@@ -176,7 +176,7 @@ It combines **RSS feeds, Telegram sources, media processing, AI-powered summarie
 
 <br><br>
 
-<a href="https://github.com/ch3fferson/news-reader-meli">
+<a href="https://github.com/ch3fferson/dayereh">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
