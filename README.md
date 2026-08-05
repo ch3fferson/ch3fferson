@@ -20,8 +20,8 @@
 
 ```
 ./what-i-do
-├── game-dev/          → Unity, C#, gameplay systems, prototyping
-├── software/          → Python, APIs, automation, scraping
+├── game-dev/           → Unity, C#, gameplay systems, prototyping
+├── software/           → Python, APIs, automation, scraping
 ├── web/                → JS, PHP, WordPress, responsive UI
 ├── data-pipelines/     → aggregation, structured processing, scheduled jobs
 └── ai-systems/         → LLM integration, prompt engineering, workflows
@@ -53,9 +53,7 @@
 ### `$ cat ./skills/toolbox.md`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,php&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=unity,mysql,git,github,githubactions,wordpress,bash,linux,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,php,unity,mysql,git,github,githubactions,wordpress,bash,linux,vscode&theme=dark"/>
 </div>
 
 <br/>
@@ -75,17 +73,6 @@
     ├── optimization
     └── creative-technology
 ```
-
-<br/>
-
-### `$ cat principles.md`
-
-> make it simple.
-> make it beautiful.
-> make it fast.
-> then ship it.
-
-`curiosity · experimentation · iteration`
 
 <br/>
 
