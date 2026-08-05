@@ -11,8 +11,11 @@
 > I'm a developer interested in the space between software, games, automation, and AI.
 >
 > I like taking ideas from a rough concept into something functional, polished, and worth using.
->
-> `idea → prototype → experiment → something real`
+
+```
+def build(idea):
+    return ship(experiment(prototype(idea)))
+```
 
 <br/>
 
@@ -47,32 +50,6 @@
 > Collects, processes, normalizes, and presents news from multiple sources through an automated pipeline — RSS feeds, Telegram sources, media processing, and AI-generated summaries, tied together with scheduled workflows.
 
 <a href="https://github.com/ch3fferson/dayereh"><img src="https://img.shields.io/badge/explore_project-0d1117?style=flat-square&labelColor=0d1117&logo=github&logoColor=00ff9c"/></a>
-
-<br/>
-
-### `$ cat ./skills/toolbox.md`
-
-<div>
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,php,unity,mysql,git,github,githubactions,wordpress,bash,linux,vscode&theme=dark"/>
-</div>
-
-<br/>
-
-### `$ tree ./currently`
-
-```
-./currently
-├── building/
-│   ├── developer-tools
-│   ├── game-prototypes
-│   ├── ai-workflows
-│   └── automation
-└── exploring/
-    ├── ai-systems
-    ├── software-architecture
-    ├── optimization
-    └── creative-technology
-```
 
 <br/>
 
