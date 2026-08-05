@@ -2,15 +2,9 @@
 
 <img src="./assets/terminal-header.svg" width="100%" alt="terminal header"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ch3fferson&label=views&color=0d1117&style=flat-square"/>
-
 </div>
 
 <br/>
-
----
 
 ### `$ cat about.md`
 
