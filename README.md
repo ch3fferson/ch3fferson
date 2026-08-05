@@ -257,8 +257,4 @@ EXPLORING
 
 <br>
 
-<a href="https://github.com/ch3fferson">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-09090B?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
 </div>
