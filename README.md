@@ -149,12 +149,12 @@ I focus on building systems where AI actually **solves a problem, improves a wor
 <tr>
 <td width="80" valign="middle">
 
-<img src="https://raw.githubusercontent.com/ch3fferson/news-reader-meli/refs/heads/main/feeds/view/assets/favicon.webp" width="64"/>
+<img src="https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/assets/favicon.webp" width="64"/>
 
 </td>
 <td valign="middle">
 
-### News Reader Meli
+### Dayereh (دایره)
 
 A personal **news aggregation and intelligence platform**.
 
