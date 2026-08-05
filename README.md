@@ -2,32 +2,39 @@
 
 <img src="./assets/terminal-header.svg" width="100%" alt="terminal header"/>
 
+<br/>
+
+<sub><code>chefferson@github:~$ whoami</code></sub>
+
 </div>
 
 <br/>
 
 ### `$ cat about.md`
 
-> I'm a developer interested in the space between software, games, automation, and AI.
+> Developer building things across **software, games, automation, and AI**.
 >
-> I like taking ideas from a rough concept into something functional, polished, and worth using.
+> I enjoy turning vague ideas into working systems — then refining them until they're fast, useful, and worth keeping.
 
-```
+```python
 def build(idea):
-    return ship(experiment(prototype(idea)))
+    prototype = experiment(idea)
+    something_real = ship(prototype)
+    return something_real
 ```
 
 <br/>
 
-### `$ ls ./what-i-do`
+### `$ tree ./what-i-do`
 
-```
+```text
 ./what-i-do
-├── game-dev/           → Unity, C#, gameplay systems, prototyping
-├── software/           → Python, APIs, automation, scraping
-├── web/                → JS, PHP, WordPress, responsive UI
-├── data-pipelines/     → aggregation, structured processing, scheduled jobs
-└── ai-systems/         → LLM integration, prompt engineering, workflows
+│
+├── game-dev/          → Unity · C# · gameplay systems · prototyping
+├── software/          → Python · APIs · automation · scraping
+├── web/               → JavaScript · PHP · WordPress · UI
+├── data-pipelines/    → aggregation · processing · scheduled workflows
+└── ai-systems/        → LLMs · prompt engineering · AI workflows
 ```
 
 <br/>
@@ -36,25 +43,35 @@ def build(idea):
 
 <table>
 <tr>
-<td width="70" valign="middle">
-<img src="https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/assets/favicon.webp" width="56"/>
+<td width="64" valign="middle">
+
+<img src="https://raw.githubusercontent.com/ch3fferson/dayereh/refs/heads/main/feeds/view/assets/favicon.webp" width="52" alt="Dayereh"/>
+
 </td>
 <td valign="middle">
 
-**Dayereh (دایره)** — a personal news aggregation and intelligence platform.
+<strong>Dayereh (دایره)</strong><br/> <sub>Personal news aggregation & intelligence platform</sub>
 
 </td>
 </tr>
 </table>
 
-> Collects, processes, normalizes, and presents news from multiple sources through an automated pipeline — RSS feeds, Telegram sources, media processing, and AI-generated summaries, tied together with scheduled workflows.
+> An automated pipeline that collects, processes, normalizes, and presents news from multiple sources.
+>
+> RSS feeds, Telegram sources, media processing, structured data, and AI-generated summaries — connected through scheduled workflows and deployed as a static system.
 
-<a href="https://github.com/ch3fferson/dayereh"><img src="https://img.shields.io/badge/explore_project-0d1117?style=flat-square&labelColor=0d1117&logo=github&logoColor=00ff9c"/></a>
+<a href="https://github.com/ch3fferson/dayereh">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0d1117"/>
+</a>
 
 <br/>
 
 <div align="center">
-<sub><code>chefferson@github:~$</code> exit</sub>
+
+<sub><code>shayan@github:~$ exit</code></sub>
+
 <br/>
-<sub><code>logout</code></sub>
+
+<sub><code>connection closed.</code></sub>
+
 </div>
