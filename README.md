@@ -4,13 +4,11 @@
 
 <br/>
 
-<sub><code>chefferson@github:~$ whoami</code></sub>
-
 </div>
 
 <br/>
 
-### `$ cat about.md`
+<sub><code>chefferson@github:~$ cat about.md</code></sub>
 
 > Developer building things across **software, games, automation, and AI**.
 >
@@ -25,7 +23,7 @@ def build(idea):
 
 <br/>
 
-### `$ tree ./what-i-do`
+<sub><code>chefferson@github:~$ tree ./what-i-do</code></sub>
 
 ```text
 ./what-i-do
@@ -39,7 +37,7 @@ def build(idea):
 
 <br/>
 
-### `$ cat ./projects/dayereh.md`
+<sub><code>chefferson@github:~$ cat ./projects/dayereh.md</code></sub>
 
 <table>
 <tr>
@@ -63,15 +61,3 @@ def build(idea):
 <a href="https://github.com/ch3fferson/dayereh">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0d1117?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0d1117"/>
 </a>
-
-<br/>
-
-<div align="center">
-
-<sub><code>shayan@github:~$ exit</code></sub>
-
-<br/>
-
-<sub><code>connection closed.</code></sub>
-
-</div>
