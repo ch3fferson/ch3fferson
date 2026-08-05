@@ -1,14 +1,10 @@
 <div align="center">
 
-<br>
+<br><br>
 
 # CHEFFERSON
 
 ### `software · games · experiments`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:18181B,100:09090B&height=2&section=header" width="80%"/>
 
 <br>
 
@@ -20,18 +16,9 @@ Sometimes they're games. Sometimes they're tools.
 Sometimes they become something I didn't expect.
 </p>
 
-<br>
-
-<a href="https://github.com/ch3fferson">
-<img src="https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<br>
-<br>
+<br><br>
 
 </div>
-
----
 
 <div align="center">
 
@@ -43,95 +30,117 @@ Sometimes they become something I didn't expect.
 
 I'm a developer interested in the space between **software, games, automation, and AI**.
 
-I like taking an idea from:
+I enjoy taking ideas from a rough concept into something **functional, polished, and worth using**.
 
-```text
-idea
-  ↓
-prototype
-  ↓
-experiment
-  ↓
-something real
-```
+<div align="center">
 
-I care about **clean code, performance, thoughtful interfaces, and actually shipping.**
+`idea` → `prototype` → `experiment` → **something real**
 
----
+</div>
+
+I care about **clean architecture, performance, thoughtful interfaces, and shipping things that actually work.**
+
+<br><br>
 
 <div align="center">
 
 ## `02 / WHAT I DO`
 
+</div>
+
 <br>
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🎮
+### 🎮 GAME DEVELOPMENT
 
-**GAME DEV**
+I build interactive experiences with a focus on gameplay, systems, and player experience.
 
-Unity
-C#
-Gameplay
-Physics
-AI
-Multiplayer
+**What I work with**
 
-</td>
+* Unity & C#
+* Gameplay programming
+* Character controllers
+* Physics & animation
+* AI & navigation
+* Multiplayer systems
+* Mobile & WebGL
+* Rapid prototyping
 
-<td align="center" width="25%">
-
-### ⚙️
-
-**SOFTWARE**
-
-Python
-APIs
-Automation
-Scraping
-Data
-Tooling
+I enjoy taking small ideas and turning them into playable prototypes, experimenting with mechanics, and iterating quickly until something feels right.
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### ◇
+### ⚙️ SOFTWARE & AUTOMATION
 
-**WEB**
+I build tools and systems that automate repetitive work and connect different services together.
 
-JavaScript
-HTML
-CSS
-WordPress
-REST
-UX
+**What I work with**
+
+* Python
+* REST APIs
+* Web scraping
+* Data processing
+* File & media processing
+* GitHub Actions
+* Background workflows
+* Custom developer tools
+
+My goal is usually simple: **remove unnecessary manual work and build a system that does it better.**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 WEB DEVELOPMENT
+
+I build responsive interfaces and full-stack web experiences with an emphasis on simplicity and performance.
+
+**What I work with**
+
+* HTML / CSS
+* JavaScript
+* PHP
+* WordPress
+* REST APIs
+* Responsive interfaces
+* Performance optimization
+* UI / UX
+
+I care about the details that make software feel good to use — from layout and interaction to loading speed and accessibility.
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### ✦
+### ✦ AI & INTELLIGENT SYSTEMS
 
-**AI**
+I'm interested in using AI as a practical engineering tool rather than simply adding AI for the sake of it.
 
-LLMs
-Gemini
-Prompting
-AI Tools
-Automation
-Experiments
+**What I work with**
+
+* LLM integrations
+* Gemini
+* Prompt engineering
+* Context optimization
+* AI-powered workflows
+* Automated content processing
+* Intelligent developer tools
+* Experimentation
+
+I focus on building systems where AI actually **solves a problem, improves a workflow, or enables something that wasn't practical before.**
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
+<br><br>
 
 <div align="center">
 
@@ -141,17 +150,36 @@ Experiments
 
 <br>
 
-### 📰 News Reader Meli
+<table>
+<tr>
+<td width="80" valign="middle">
 
-> A personal news aggregation and intelligence platform.
+<img src="https://raw.githubusercontent.com/ch3fferson/news-reader-meli/refs/heads/main/feeds/view/assets/favicon.webp" width="64"/>
 
-A Python-based system for collecting, processing, normalizing and presenting news from different sources — with automated media handling, RSS generation, AI-powered summaries and scheduled GitHub workflows.
+</td>
+<td valign="middle">
 
-`Python` `Gemini` `RSS` `Telegram` `GitHub Actions`
+### News Reader Meli
+
+A personal **news aggregation and intelligence platform**.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+News Reader Meli collects, processes, normalizes, and presents news from multiple sources through an automated pipeline.
+
+It combines **RSS feeds, Telegram sources, media processing, AI-powered summaries, custom data processing, and scheduled GitHub workflows** into a single system.
 
 <br>
 
 <div align="center">
+
+`Python` · `Gemini` · `RSS` · `Telegram` · `GitHub Actions` · `HTML` · `CSS` · `JavaScript`
+
+<br><br>
 
 <a href="https://github.com/ch3fferson/news-reader-meli">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
@@ -159,27 +187,23 @@ A Python-based system for collecting, processing, normalizing and presenting new
 
 </div>
 
-<br>
-
----
+<br><br>
 
 <div align="center">
 
 ## `04 / TOOLBOX`
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css,php&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=unity,git,github,githubactions,wordpress,cloudflare,firebase,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=unity,git,github,githubactions,wordpress,cloudflare,firebase,vscode&theme=dark"/>
+
+<br><br><br>
 
 </div>
-
----
-
-<br>
 
 <div align="center">
 
@@ -189,37 +213,43 @@ A Python-based system for collecting, processing, normalizing and presenting new
 
 <table>
 <tr>
-<td>
+<td width="50%" align="center">
+
+### BUILDING
 
 ```text
-BUILDING
+developer tools
 
-→ developer tools
-→ game prototypes
-→ AI workflows
-→ automation
+game prototypes
+
+AI workflows
+
+automation
 ```
 
 </td>
 
-<td>
+<td width="50%" align="center">
+
+### EXPLORING
 
 ```text
-EXPLORING
+AI systems
 
-→ AI systems
-→ architecture
-→ optimization
-→ creative technology
+software architecture
+
+optimization
+
+creative technology
 ```
 
 </td>
 </tr>
 </table>
 
-</div>
+<br><br>
 
----
+</div>
 
 <div align="center">
 
@@ -239,22 +269,12 @@ EXPLORING
 
 `curiosity` · `experimentation` · `iteration`
 
-</div>
+<br><br><br>
 
----
+# CHEFFERSON
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:27272A,100:09090B&height=2&section=footer" width="80%"/>
+### `keep building.`
 
 <br><br>
-
-### CHEFFERSON
-
-`© 2026`
-
-<br>
 
 </div>
